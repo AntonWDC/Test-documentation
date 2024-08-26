@@ -4,6 +4,6 @@
 
 [Test-suite](https://app.qase.io/project/G8?suite=114)
 
-[Test-Run_Rreport](https://github.com/AntonWDC/Test-documentation/blob/main/Anton_Sobolev_Test_Run.pdf)
+[Test-Run_Report](https://github.com/AntonWDC/Test-documentation/blob/main/Anton_Sobolev_Test_Run.pdf)
 
 [Bug-Report](https://github.com/AntonWDC/Test-documentation#:~:text=Anton_Sobolev_Bug_Report.xlsx)
